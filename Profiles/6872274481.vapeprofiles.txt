@@ -3,5 +3,5 @@
         "ProfileName": "test",
         "ProfileGame": 6872274481,
         "OnlineProfileName": "testprofile.vapeprofile.txt"
-    },
+    }
 }
