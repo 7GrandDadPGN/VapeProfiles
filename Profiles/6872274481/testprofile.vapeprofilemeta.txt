@@ -1,4 +1,4 @@
 {
-	"name": "Test Profile",
+	"name": "change",
 	"savename": "blatant"
 }
