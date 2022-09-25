@@ -4,3 +4,10 @@
         "OnlineProfileName": "testprofile.vapeprofile.txt"
     }
 }
+
+{
+    "Testing Profile": {
+        "ProfileName": "Pisstonware🤮🤮🤮🤮",
+        "OnlineProfileName": "trashconfig.vapeprofile.txt"
+    }
+}
