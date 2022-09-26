@@ -1,12 +1,6 @@
-{
-    "Testing Profile": {
-        "ProfileName": "test",
-        "OnlineProfileName": "testprofile.vapeprofile.txt"
-    }
-}
 
 {
-    "Testing Profile": {
+    "Pisstonware": {
         "ProfileName": "Pisstonware🤮🤮🤮🤮",
         "OnlineProfileName": "trashconfig.vapeprofile.txt"
     }
