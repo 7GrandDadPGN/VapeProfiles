@@ -1,7 +1,7 @@
 
 {
-    "Pisstonware": {
-        "ProfileName": "Pisstonware🤮🤮🤮🤮",
+    "Shitty Config": {
+        "ProfileName": "KenriConfig",
         "OnlineProfileName": "trashconfig.vapeprofile.txt"
     }
 }
