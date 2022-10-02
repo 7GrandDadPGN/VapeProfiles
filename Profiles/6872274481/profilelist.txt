@@ -2,6 +2,6 @@
 {
     "Shitty Config": {
         "ProfileName": "KenriConfig",
-        "OnlineProfileName": "trashconfig.vapeprofile.txt"
+        "OnlineProfileName": "KenriConfig.vapeprofile.txt"
     }
 }
