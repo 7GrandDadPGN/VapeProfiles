@@ -7,5 +7,9 @@
     "Shitty Config": {
         "ProfileName": "KenriConfig",
         "OnlineProfileName": "KenriConfig.vapeprofile.txt"
+    },
+    "WhatTheDogDoing Config": {
+        "ProfileName": "WhatTheDogDoing",
+        "OnlineProfileName": "WhatTheDogDoing.vapeprofile.txt"
     }
 }
