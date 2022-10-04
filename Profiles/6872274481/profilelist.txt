@@ -3,5 +3,9 @@
     "Pisstonware": {
         "ProfileName": "Pisstonware🤮🤮🤮🤮",
         "OnlineProfileName": "trashconfig.vapeprofile.txt"
+    },
+    "Shitty Config": {
+        "ProfileName": "KenriConfig",
+        "OnlineProfileName": "KenriConfig.vapeprofile.txt"
     }
 }
