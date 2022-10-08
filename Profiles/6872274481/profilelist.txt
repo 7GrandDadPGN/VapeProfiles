@@ -5,3 +5,9 @@
         "OnlineProfileName": "trashconfig.vapeprofile.txt"
     }
 }
+{
+    "Asszura": {
+        "ProfileName": "Asszura Skidded",
+        "OnlineProfileName": "Asszura.vapeprofile.txt"
+    }
+}
