@@ -4,8 +4,18 @@
         "ProfileName": "Pisstonware🤮🤮🤮🤮",
         "OnlineProfileName": "trashconfig.vapeprofile.txt"
     }
-}
-{
+    "Pisstonware": {
+        "ProfileName": "Pisstonware🤮🤮🤮🤮",
+        "OnlineProfileName": "trashconfig.vapeprofile.txt"
+    },
+    "Shitty Config": {
+        "ProfileName": "KenriConfig",
+        "OnlineProfileName": "KenriConfig.vapeprofile.txt"
+    },
+    "WhatTheDogDoing Config": {
+        "ProfileName": "WhatTheDogDoing",
+        "OnlineProfileName": "WhatTheDogDoing.vapeprofile.txt"
+    },
     "Asszura": {
         "ProfileName": "Asszura Skidded",
         "OnlineProfileName": "Asszura.vapeprofile.txt"
