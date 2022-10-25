@@ -19,5 +19,9 @@
     "SXConfig": {
         "ProfileName": "SX",
         "OnlineProfileName": "SXConfig.vapeprofile.txt"
+    },
+    "AzuraV5Config": {
+        "ProfileName": "AzuraV5",
+        "OnlineProfileName": "AzuraV5.vapeprofile.txt"
     }
 }
