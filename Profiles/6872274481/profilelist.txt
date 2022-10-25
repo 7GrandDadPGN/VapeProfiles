@@ -18,6 +18,10 @@
     },
     "Asszura": {
         "ProfileName": "Asszura Skidded",
-        "OnlineProfileName": "Asszura.vapeprofile.txt"
+        "OnlineProfileName": "Asszura.vapeprofile.txt".  
+    },
+    "SXConfig": {
+        "ProfileName": "SX",
+        "OnlineProfileName": "SXConfig.vapeprofile.txt"
     }
 }
